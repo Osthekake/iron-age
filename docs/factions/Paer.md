@@ -4,7 +4,7 @@
 Wood-dwelling halflings in the central deep woods who live in harmony with their forest home. They export wood in small quantities and rely on the forest itself and their deadly ambush skills for protection against all threats.
 
 ## Primary regions
-[[Whisperwood]]
+[Whisperwood](../locations/regions/Whisperwood.md)
 
 ## Major cities
 Burrow Towns, Sacred Groves, The Whispering Paths, Riverside Hamlets

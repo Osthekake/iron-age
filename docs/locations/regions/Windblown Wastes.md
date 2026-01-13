@@ -3,7 +3,7 @@
 Grassy plains in wide valleys without a single tree, home to invading Mar forces and constant danger.
 
 ## Cultures
-- **[[Mar]] Raiders**: Giants and hobgoblins who invaded from the east, living as pirates and bandits
+- **[Mar](../../factions/Mar.md) Raiders**: Giants and hobgoblins who invaded from the east, living as pirates and bandits
 - **Nomadic Survivors**: Small groups of original inhabitants who live on the move, avoiding Mar forces
 - **Borderland Defenders**: Those who attempt to protect the western edges from Mar expansion
 
@@ -19,6 +19,6 @@ Exposed and windy year-round, with no natural protection from the elements. Summ
 ## Resources
 - **Ancient Artifacts**: Remnants of Aryn and Rhuul technology that Mar forces scavenge
 - **Grazing Land**: Limited areas where hardy livestock can be maintained by those who know the secrets
-- **Strategic Position**: Control over the eastern approaches to the rest of [[Merona]]
+- **Strategic Position**: Control over the eastern approaches to the rest of [Merona](../Merona.md)
 - **Raiding Targets**: Proximity to wealthier regions that makes it an ideal base for Mar operations
 - **Hidden Resources**: Unknown deposits or materials that may exist beneath the seemingly empty plains

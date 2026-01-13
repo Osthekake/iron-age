@@ -1,5 +1,5 @@
 ## Region
-[[Elvenshade]]
+[Elvenshade](../regions/Elvenshade.md)
 
 ## Architecture
 Extensive stone ruins with remnants of advanced elven technology, now partially overgrown by forest. Features include crumbling towers, collapsed aqueducts, and ancient workshops with mysterious mechanisms.

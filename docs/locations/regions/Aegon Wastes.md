@@ -1,13 +1,13 @@
 ## Short Description
-The southern desert where ghosts of ancient seafarers dwell in scattered stone structures, marking the southern extent of [[Merona]].
+The southern desert where ghosts of ancient seafarers dwell in scattered stone structures, marking the southern extent of [Merona](../Merona.md).
 
 ## Cultures
-- **[[Aegon]] Remnants**: Ancient water-themed undead spirits that haunt the stone forts
+- **[Aegon](../../factions/Aegon.md) Remnants**: Ancient water-themed undead spirits that haunt the stone forts
 - **Scavengers**: Small groups of desperate survivors who brave the supernatural dangers for rare resources
 - **Cerwin Outposts**: Occasional trade caravans that cross the northern edges seeking ancient artifacts
 
 ## Cities and Sites
-- **Sunken Forts**: Ancient stone structures half-buried in sand, where [[Aegon]] ghosts are most active
+- **Sunken Forts**: Ancient stone structures half-buried in sand, where [Aegon](../../factions/Aegon.md) ghosts are most active
 - **Oasis of Last Hope**: A rare water source that attracts both the living and dead
 - **The Bone Coast**: Where ancient ships are preserved in the dry desert air, their spectral crews still walking the decks
 

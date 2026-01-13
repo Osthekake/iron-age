@@ -1,5 +1,5 @@
 ## Region
-[[Whisperwood]]
+[Whisperwood](../regions/Whisperwood.md)
 
 ## Population
 - **Paer Halflings**: 85% - Fishers, traders, and boat builders

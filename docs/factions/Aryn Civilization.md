@@ -1,7 +1,7 @@
 ## Motto
 "Where knowledge once ruled."
 
-The ancient elven empire that dominated western and central [[Merona]] before its mysterious collapse, leaving behind ruins of advanced technology and infrastructure that modern cultures still discover and utilize.
+The ancient elven empire that dominated western and central [Merona](../locations/Merona.md) before its mysterious collapse, leaving behind ruins of advanced technology and infrastructure that modern cultures still discover and utilize.
 
 ## Artifacts
 - **Aryn Coins**: Minted currency featuring precise geometric designs and magical alloys that never tarnish
@@ -12,7 +12,7 @@ The ancient elven empire that dominated western and central [[Merona]] before it
 - **Power Crystals**: Energy sources that powered their cities and devices, some still functional in modern sites
 
 ## Impact
-- **Urban Foundation**: Modern cities like [[Cerwinus]] built directly atop Aryn foundations, utilizing their advanced infrastructure
+- **Urban Foundation**: Modern cities like [Cerwinus](../locations/sites/Cerwinus.md) built directly atop Aryn foundations, utilizing their advanced infrastructure
 - **Technological Legacy**: Current cultures still use and reverse-engineer Aryn devices and techniques
 - **Trade Networks**: Ancient roads and trade routes established by Aryn still form backbone of modern commerce
 - **Cultural Influence**: Elven traditions, writing systems, and architectural styles directly descended from Aryn practices
@@ -20,4 +20,4 @@ The ancient elven empire that dominated western and central [[Merona]] before it
 - **Magical Understanding**: Aryn magical systems and artifacts provide foundation for current magical practices and studies
 
 ## History
-The Aryn Civilization was the dominant elven empire that ruled western and central [[Merona]] for millennia before its sudden and mysterious collapse. They achieved remarkable technological advancement, creating stone cities powered by complex mechanisms, automated systems, and crystal energy sources. Their civilization built extensive road networks, developed sophisticated metallurgy, and created architectural marvels that modern cultures still struggle to replicate. The reasons for their fall remain unknown - some theories speak of internal rebellion, others of external catastrophe, and some of gradual decline. Their ruins dot the landscape across their former territory, with modern [[Cerwin elves]] being their direct descendants who struggle to maintain their ancestors' knowledge. Modern cultures across [[Merona]] benefit from their legacy through both excavated artifacts and the infrastructure foundations they left behind.
+The Aryn Civilization was the dominant elven empire that ruled western and central [Merona](../locations/Merona.md) for millennia before its sudden and mysterious collapse. They achieved remarkable technological advancement, creating stone cities powered by complex mechanisms, automated systems, and crystal energy sources. Their civilization built extensive road networks, developed sophisticated metallurgy, and created architectural marvels that modern cultures still struggle to replicate. The reasons for their fall remain unknown - some theories speak of internal rebellion, others of external catastrophe, and some of gradual decline. Their ruins dot the landscape across their former territory, with modern [Cerwin elves](Cerwin elves.md) being their direct descendants who struggle to maintain their ancestors' knowledge. Modern cultures across [Merona](../locations/Merona.md) benefit from their legacy through both excavated artifacts and the infrastructure foundations they left behind.

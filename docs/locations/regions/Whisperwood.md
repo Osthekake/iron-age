@@ -4,7 +4,7 @@
 The dark forests at the eastern shores of Mosswater, where the wood-dwelling halfling Paer thrive in deep woods.
 
 ## Cultures
-- **[[Paer]] Halflings**: Wood-dwelling halflings who live in harmony with the forest and maintain its protection
+- **[Paer](../../factions/Paer.md) Halflings**: Wood-dwelling halflings who live in harmony with the forest and maintain its protection
 - **Forest Keepers**: Those who guard ancient groves and maintain the balance between nature and settlement
 - **Swamp Dwellers**: Communities that live in the wetter areas where forest meets Mosswater's shores
 

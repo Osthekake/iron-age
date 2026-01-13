@@ -4,13 +4,13 @@
 Dwarves and gnomes with strong stone defense structures in the central mountains. They maintain underground trade routes, buy resources from others, export steel, and protect their technological secrets while remaining impregnable to Mar sieges.
 
 ## Primary regions
-[[Spine Peaks]]
+[Spine Peaks](../locations/regions/Spine Peaks.md)
 
 ## Major cities
-[[Stonegate]], The Forge Caves, The Deep Valleys, Ancient Watchtowers
+[Stonegate](../locations/sites/Stonegate.md), The Forge Caves, The Deep Valleys, Ancient Watchtowers
 
 ## Religion (if any)
-[[Seringor - The Lord of Fire]] (some dwarves)
+[Seringor - The Lord of Fire](../religions/Seringor - The Lord of Fire.md) (some dwarves)
 
 ## Relations
 - **Cerwin elves**: Trade partners - Sell steel, buy wood and iron

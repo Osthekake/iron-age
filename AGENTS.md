@@ -29,7 +29,7 @@ iron-age/
 5. Commit changes regularly
 
 ## Theme
-Make sure you read the [[Theme]] document before generating any text.
+Make sure you read the [Theme](docs/Theme.md) document before generating any text.
 
 ## Linking Guidelines
 
@@ -38,12 +38,12 @@ Make sure you read the [[Theme]] document before generating any text.
 
 - **Location References**: Always use `[Region Name](link)` format for all geographical locations
 - **Culture References**: Always use `[Culture Name](link)` format for factions, peoples, and groups
-- **Document Cross-References**: Link between related documents using `[[Document Name]]` format
+- **Document Cross-References**: Link between related documents using `[Document Name](FILE_NOT_FOUND: Document Name)` format
 
 ### Examples
-- Correct: "The [[Cerwin elves]] trade with the [[Hiren]] clans in the [[Spine Peaks]])"
+- Correct: "The [Cerwin elves](docs/factions/Cerwin elves.md) trade with the [Hiren](docs/factions/Hiren.md) clans in the [Spine Peaks](docs/locations/regions/Spine Peaks.md))"
 - Incorrect: "The Cerwin elves trade with the Hiren clans in the Spine Peaks"
-- Correct: "Travelers pass through the [[Whisperwood]] forests near the shores of [[Mosswater]]"
+- Correct: "Travelers pass through the [Whisperwood](docs/locations/regions/Whisperwood.md) forests near the shores of [Mosswater](docs/locations/regions/Mosswater.md)"
 - Incorrect: "Travelers pass through the Whisperwood forests near the shores of Mosswater"
 
 ### Implementation

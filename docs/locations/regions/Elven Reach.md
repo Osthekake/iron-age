@@ -1,14 +1,14 @@
 
 ## Short Description
-The salty ocean around which the Elven Empire was built, connected to [[Frostmere]] through a narrow strait with treacherous currents.
+The salty ocean around which the Elven Empire was built, connected to [Frostmere](Frostmere.md) through a narrow strait with treacherous currents.
 
 ## Cultures
-- **[[Cerwin elves]] Cities**: Remnants of the ancient Elven civilization, maintaining stone buildings and wooden mechanics
+- **[Cerwin elves](../../factions/Cerwin elves.md) Cities**: Remnants of the ancient Elven civilization, maintaining stone buildings and wooden mechanics
 - **Maritime Traders**: Those who brave the dangerous waters to maintain connections between coastal settlements
 
 ## Cities and Sites
 - **Cerwinus**: Largest Cerwin city, built of white stone and redwood, serving as a center for trade and culture
-- **The Narrow Strait**: Dangerous passage connecting to [[Frostmere]], with strong currents and many shipwrecks
+- **The Narrow Strait**: Dangerous passage connecting to [Frostmere](Frostmere.md), with strong currents and many shipwrecks
 - **Westmen Coastal Forts**: Scattered strongholds that provide shelter and education to local populations
 - **Sunken Elven Roads**: Ancient paved roads that now lie beneath the waves, visible during low tides
 

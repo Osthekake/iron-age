@@ -1,16 +1,16 @@
 ## Motto
 "The last ember"
 
-Aryn Holdouts - Cities around central and southern [[Merona]] with stone buildings and wooden mechanics. They think themselves better than others and make their living from trade and managing the remnants of old capital in a world where capital matters less than it used to.
+Aryn Holdouts - Cities around central and southern [Merona](../locations/Merona.md) with stone buildings and wooden mechanics. They think themselves better than others and make their living from trade and managing the remnants of old capital in a world where capital matters less than it used to.
 
 ## Primary regions
-[[Elvenshade]], [[Elven Reach]]
+[Elvenshade](../locations/regions/Elvenshade.md), [Elven Reach](../locations/regions/Elven Reach.md)
 
 ## Major cities
-[[Cerwinus]], [[Aryn Ruins]] [[The Overgrown Way]]
+[Cerwinus](../locations/sites/Cerwinus.md), [Aryn Ruins](../locations/sites/Aryn Ruins.md) [The Overgrown Way](../locations/sites/The Overgrown Way.md)
 
 ## Religion (if any)
-[[Seringor - The Lord of Fire]]
+[Seringor - The Lord of Fire](../religions/Seringor - The Lord of Fire.md)
 
 ## Relations
 - **Ironburners**: Trade partners

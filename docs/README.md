@@ -3,10 +3,10 @@
 A markdown-based knowledge management system using Obsidian and OpenCode integration.
 
 # Locations
-[[Merona]]
+[Merona](locations/Merona.md)
 
 # Factions
-[[Factions Overview]]
+[Factions Overview](factions/Factions Overview.md)
 
 # Religions
-[[Religions overview]]
+[Religions overview](religions/Religions overview.md)

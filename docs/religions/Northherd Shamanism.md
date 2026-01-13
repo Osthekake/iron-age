@@ -1,6 +1,6 @@
-![[northherd shamanism.png]]
+![northherd shamanism.png](FILE_NOT_FOUND: northherd shamanism.png)
 ## Practiced by
-[[Northherders]]
+[Northherders](../factions/Northherders.md)
 
 ## Major holiday
 The Long Night - A mid-winter festival where shamans undertake their darkest journeys and communities make the greatest blood sacrifices to ensure survival through the harshest months.

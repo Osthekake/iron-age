@@ -1,16 +1,16 @@
 ## Motto
 "Economic opportunities!"
 
-Camps and small towns around the Inland Isles and the [[Ironcrest Range]] who make their living from iron production and charcoal burning. Distrustful of nomadic cultures but pragmatic in their trade relationships, they seek shelter with Westmen when threats become too great to handle alone.
+Camps and small towns around the Inland Isles and the [Ironcrest Range](../locations/regions/Ironcrest Range.md) who make their living from iron production and charcoal burning. Distrustful of nomadic cultures but pragmatic in their trade relationships, they seek shelter with Westmen when threats become too great to handle alone.
 
 ## Primary regions
-[[Ironcrest Range]], [[Frostmere]], [[Ironfen]], [[Mosswater]]
+[Ironcrest Range](../locations/regions/Ironcrest Range.md), [Frostmere](../locations/regions/Frostmere.md), [Ironfen](../locations/regions/Ironfen.md), [Mosswater](../locations/regions/Mosswater.md)
 
 ## Major cities
-[[Charhill]], [[The Smoke Pits]], 
+[Charhill](../locations/sites/Charhill.md), [The Smoke Pits](../locations/sites/The Smoke Pits.md), 
 
 ## Religion (if any)
-[[Ironburner Ancestor Worship]] (practiced in secret)
+[Ironburner Ancestor Worship](../religions/Ironburner Ancestor Worship.md) (practiced in secret)
 
 ## Relations
 - **Cerwin elves**: Trade partners 
@@ -23,4 +23,4 @@ Camps and small towns around the Inland Isles and the [[Ironcrest Range]] who ma
 - Iron
 - Charcoal
 ## History
-The Ironburners are descendants of the [[The Barrow Men]] who adapted to the harsh mountain environments by mastering iron production and charcoal making. When the Mar invaded, their scattered camps and small towns proved difficult to conquer, but also left them vulnerable to constant raiding. They developed a pragmatic survival strategy focused on economic productivity and strategic alliances. Their secret ancestor worship provides spiritual strength and connection to ancient knowledge. Unable to field effective armies against [[Mar]] giants, they rely on mobility, [[Westmen]] protection, and their economic importance to survive. Their control over fuel and metal production makes them valuable allies to more powerful cultures.
+The Ironburners are descendants of the [The Barrow Men](The Barrow Men.md) who adapted to the harsh mountain environments by mastering iron production and charcoal making. When the Mar invaded, their scattered camps and small towns proved difficult to conquer, but also left them vulnerable to constant raiding. They developed a pragmatic survival strategy focused on economic productivity and strategic alliances. Their secret ancestor worship provides spiritual strength and connection to ancient knowledge. Unable to field effective armies against [Mar](Mar.md) giants, they rely on mobility, [Westmen](Westmen.md) protection, and their economic importance to survive. Their control over fuel and metal production makes them valuable allies to more powerful cultures.

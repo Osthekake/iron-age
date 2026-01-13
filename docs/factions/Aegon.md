@@ -1,7 +1,7 @@
 ## Motto
 "Where waters remember."
 
-Ancient seafaring civilization that dominated southern [[Merona]]'s desert coasts, leaving behind water-themed undead who still haunt their stone forts and coastal ruins.
+Ancient seafaring civilization that dominated southern [Merona](../locations/Merona.md)'s desert coasts, leaving behind water-themed undead who still haunt their stone forts and coastal ruins.
 
 ## Artifacts
 - **Stone Forts**: Scattered fortified structures positioned strategically along desert coastlines
@@ -19,4 +19,4 @@ Ancient seafaring civilization that dominated southern [[Merona]]'s desert coast
 - **Magical Resonance**: Their water magic continues to affect local environment and weather patterns
 
 ## History
-The Aegon were advanced seafaring civilization that thrived along the southern desert coasts of [[Merona]], mastering both maritime navigation and water-based magic. They built a network of stone forts and trading posts that controlled southern sea lanes, developing sophisticated knowledge of ocean currents, weather patterns, and magical practices tied to water. Their civilization's end came suddenly - whether through natural disaster, magical catastrophe, or divine curse - transforming their population into water-themed undead who remain bound to their former territories. Modern southern regions bear the marks of their passing through preserved forts, ongoing supernatural phenomena, and the lingering presence of their undead guardians. Though their civilization fell, their maritime knowledge and coastal fortifications continue to influence modern seafaring and provide shelter for travelers. Some modern cultures actively avoid their territories due to the supernatural dangers that persist there.
+The Aegon were advanced seafaring civilization that thrived along the southern desert coasts of [Merona](../locations/Merona.md), mastering both maritime navigation and water-based magic. They built a network of stone forts and trading posts that controlled southern sea lanes, developing sophisticated knowledge of ocean currents, weather patterns, and magical practices tied to water. Their civilization's end came suddenly - whether through natural disaster, magical catastrophe, or divine curse - transforming their population into water-themed undead who remain bound to their former territories. Modern southern regions bear the marks of their passing through preserved forts, ongoing supernatural phenomena, and the lingering presence of their undead guardians. Though their civilization fell, their maritime knowledge and coastal fortifications continue to influence modern seafaring and provide shelter for travelers. Some modern cultures actively avoid their territories due to the supernatural dangers that persist there.

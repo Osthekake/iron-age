@@ -1,16 +1,16 @@
 ## Motto
 "Stick to their ways."
 
-Nomadic fishermen and animal herders in the [[Ironcrest Range]] who practice shamanistic blood religion. Traditional to the extreme, they maintain their ancient customs despite the changing world around them and stay mobile to avoid Mar threats.
+Nomadic fishermen and animal herders in the [Ironcrest Range](../locations/regions/Ironcrest Range.md) who practice shamanistic blood religion. Traditional to the extreme, they maintain their ancient customs despite the changing world around them and stay mobile to avoid Mar threats.
 
 ## Primary regions
-[[Ironcrest Range]]
+[Ironcrest Range](../locations/regions/Ironcrest Range.md)
 
 ## Major cities
 Bloodstone Circle, Glacier's End, The Whispering Bogs
 
 ## Religion (if any)
-[[Northherd Shamanism]]
+[Northherd Shamanism](../religions/Northherd Shamanism.md)
 
 ## Relations
 - **Cerwin elves**: Neutral - Little direct contact, view them as distant

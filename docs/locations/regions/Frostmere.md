@@ -1,13 +1,13 @@
 ## Short Description
-The north-western boundary of [[Merona]], a treacherous sea with rocky islands, bountiful fish, and dangerous weather.
+The north-western boundary of [Merona](../Merona.md), a treacherous sea with rocky islands, bountiful fish, and dangerous weather.
 
 ## Cultures
-- **[[Westmen]] Sea Monks**: Religious orders who follow the old sea routes and protect coastal populations
-- **Seasonal Fishers**: [[Northherders]] who come to the coast during certain seasons to fish
+- **[Westmen](../../factions/Westmen.md) Sea Monks**: Religious orders who follow the old sea routes and protect coastal populations
+- **Seasonal Fishers**: [Northherders](../../factions/Northherders.md) who come to the coast during certain seasons to fish
 
 ## Cities and Sites
-- **[[Westwatch]](../../sites/Westwatch.md)**: Largest Westmen monastery serving as center for trade, education, and coastal protection
-- **The Monastery of Tides**: [[Westmen]] religious community that maintains ancient knowledge of sea patterns and navigation
+- **[Westwatch](../sites/Westwatch.md)(../../sites/Westwatch.md)**: Largest Westmen monastery serving as center for trade, education, and coastal protection
+- **The Monastery of Tides**: [Westmen](../../factions/Westmen.md) religious community that maintains ancient knowledge of sea patterns and navigation
 - **Rocky Harbor**: Natural anchorage that provides shelter from worst storms, though still dangerous
 - **The Frozen Isles**: Northernmost islands where ice meets sea, creating unique and hazardous conditions
 
@@ -16,4 +16,4 @@ Cold and harsh year-round, with frequent storms that can appear suddenly. Winter
 
 ## Resources
 - **Fish**: Abundant and valuable fish populations that support coastal communities
-- **Island Defense**: Natural protection that makes the islands difficult to attack by [[Mar]] raiders
+- **Island Defense**: Natural protection that makes the islands difficult to attack by [Mar](../../factions/Mar.md) raiders
