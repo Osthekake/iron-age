@@ -14,23 +14,37 @@ def find_target_file(link_text, current_file, all_files):
             if Path(file_path).name.lower() == normalized.lower():
                 return file_path
     
-    # Try exact stem matches (filename without extension)
+    # Try exact stem matches (filename without extension) - prioritize exact matches
+    exact_matches = []
     for file_path in all_files:
         filename = Path(file_path).stem
         if filename == normalized:
-            return file_path
+            exact_matches.append(file_path)
+    
+    # If we have exact matches, return the first one (most specific)
+    if exact_matches:
+        return exact_matches[0]
     
     # Try case-insensitive stem matches
+    case_matches = []
     for file_path in all_files:
         filename = Path(file_path).stem
         if filename.lower() == normalized.lower():
-            return file_path
+            case_matches.append(file_path)
     
-    # Try partial matches (for cases like "summary" matching "summary.png")
+    if case_matches:
+        return case_matches[0]
+    
+    # Try contains matches (link text contained in filename)
+    contains_matches = []
     for file_path in all_files:
         filename = Path(file_path).stem
-        if normalized.lower() in filename.lower():
-            return file_path
+        if normalized.lower() in filename.lower() or filename.lower() in normalized.lower():
+            contains_matches.append(file_path)
+    
+    if contains_matches:
+        # Prefer the shortest filename (most specific match)
+        return min(contains_matches, key=lambda x: len(Path(x).stem))
     
     return None
 
