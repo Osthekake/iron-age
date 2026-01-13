@@ -1,7 +1,7 @@
 ## Motto
 "Where fire was first forged."
 
-Ancient dwarven civilization that dominated central [Merona](../locations/Merona.md)'s mountainous regions, serving as the primary metalworkers and forge masters for the [Aryn Civilization](Aryn Civilization.md) before their destruction by catastrophic flood.
+Ancient dwarven civilization that dominated central [Merona](../locations/Merona.md)'s mountainous regions, serving as the primary metalworkers and forge masters for the [Aryn Civilization](Aryn%20Civilization.md) before their destruction by catastrophic flood.
 
 ## Artifacts
 - **Iron Weapons**: Superior quality arms and armor featuring techniques still not fully understood

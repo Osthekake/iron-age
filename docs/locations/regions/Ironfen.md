@@ -10,8 +10,8 @@ The wetlands around the north edges of Mosswater, where ironburners burn peat fo
 
 ## Cities and Sites
 - **[Charhill](../sites/Charhill.md)(../../sites/Charhill.md)**: Merged [Ironburners](../../factions/Ironburners.md) settlement combining former Peatworks operations into a massive industrial center
-- **[The Smoke Pits](../sites/The Smoke Pits.md)(../../sites/The Smoke Pits.md)**: Area where ironburners maintain their forge operations, constantly shrouded in smoke
-- **[Wetwood Forest](../sites/Wetwood Forest.md)(../../sites/Wetwood Forest.md)**: Carefully managed woodland where specific trees are harvested for charcoal
+- **[The Smoke Pits](../sites/The%20Smoke%20Pits.md)(../../sites/The Smoke Pits.md)**: Area where ironburners maintain their forge operations, constantly shrouded in smoke
+- **[Wetwood Forest](../sites/Wetwood%20Forest.md)(../../sites/Wetwood Forest.md)**: Carefully managed woodland where specific trees are harvested for charcoal
 
 ## Climate
 Damp and cool year-round, with frequent fog rising from the wetlands and Mosswater. The air is thick with the smell of burning peat and charcoal. Summers are mild with persistent dampness, while winters bring freezing temperatures that make ironworking particularly challenging. The wet environment ensures constant moisture but also makes fuel preservation difficult.

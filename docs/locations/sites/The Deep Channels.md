@@ -4,7 +4,7 @@
 ## Population
 - **Mosswater Fishers**: 80% - Fishing crews and boat operators
 - **[Westmen](../../factions/Westmen.md) Researchers**: 10% - Scholars studying aquatic phenomena
-- **[Cerwin elves](../../factions/Cerwin elves.md) Explorers**: 5% - Those investigating mysterious depths
+- **[Cerwin elves](../../factions/Cerwin%20elves.md) Explorers**: 5% - Those investigating mysterious depths
 - **Water Spirits**: 5% - Supernatural beings occasionally encountered
 
 ## Architecture

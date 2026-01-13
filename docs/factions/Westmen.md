@@ -4,13 +4,13 @@
 Monastic order of elves, halflings and humans with scattered strongholds along old Aryn sea routes. They follow a religion of the sea and raise/educate local populations where possible, waiting out attacking Mar in their forts rather than engaging them directly.
 
 ## Primary regions
-[Frostmere](../locations/regions/Frostmere.md), [Elven Reach](../locations/regions/Elven Reach.md)
+[Frostmere](../locations/regions/Frostmere.md), [Elven Reach](../locations/regions/Elven%20Reach.md)
 
 ## Major cities
 [Westwatch](../locations/sites/Westwatch.md), The Monastery of Tides, Westmen Coastal Forts
 
 ## Religion (if any)
-[Seringor - The Lord of Fire](../religions/Seringor - The Lord of Fire.md)
+[Seringor - The Lord of Fire](../religions/Seringor%20-%20The%20Lord%20of%20Fire.md)
 
 ## Relations
 - **Cerwin elves**: Respectful - Shared religious devotion to Seringor

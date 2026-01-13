@@ -5,7 +5,7 @@
 - **[Westmen](../../factions/Westmen.md) Monks**: 40% - Religious scholars, navigators, and protectors
 - **Human Initiates**: 35% - Students, acolytes, and service staff
 - **Halfling Assistants**: 15% - Gardeners, cooks, and maintenance workers
-- **[Cerwin elves](../../factions/Cerwin elves.md) Advisors**: 10% - Military trainers and diplomats
+- **[Cerwin elves](../../factions/Cerwin%20elves.md) Advisors**: 10% - Military trainers and diplomats
 
 ## Architecture
 Built from stone quarried from nearby Ironcrest Range with wooden elements crafted by local artisans. Structures feature tall towers for navigation observation, extensive libraries for maintaining knowledge, and fortified walls for protection. Built on rocky shores with raised foundations to protect from harsh coastal conditions and storm surges.

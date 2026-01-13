@@ -1,5 +1,5 @@
 ## Region
-[Spine Peaks](../regions/Spine Peaks.md)
+[Spine Peaks](../regions/Spine%20Peaks.md)
 
 ## Population
 - **Hiren Dwarves**: 70% - Warriors, smiths, and fortress defenders

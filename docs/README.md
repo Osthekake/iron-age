@@ -6,7 +6,7 @@ A markdown-based knowledge management system using Obsidian and OpenCode integra
 [Merona](locations/Merona.md)
 
 # Factions
-[Factions Overview](factions/Factions Overview.md)
+[Factions Overview](factions/Factions%20Overview.md)
 
 # Religions
-[Religions overview](religions/Religions overview.md)
+[Religions overview](religions/Religions%20overview.md)

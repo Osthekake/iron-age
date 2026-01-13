@@ -3,7 +3,7 @@
 The salty ocean around which the Elven Empire was built, connected to [Frostmere](Frostmere.md) through a narrow strait with treacherous currents.
 
 ## Cultures
-- **[Cerwin elves](../../factions/Cerwin elves.md) Cities**: Remnants of the ancient Elven civilization, maintaining stone buildings and wooden mechanics
+- **[Cerwin elves](../../factions/Cerwin%20elves.md) Cities**: Remnants of the ancient Elven civilization, maintaining stone buildings and wooden mechanics
 - **Maritime Traders**: Those who brave the dangerous waters to maintain connections between coastal settlements
 
 ## Cities and Sites

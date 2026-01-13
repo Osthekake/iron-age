@@ -179,6 +179,7 @@
   },
   "active": "2c3d10fc2eac5771",
   "lastOpenFiles": [
+    "fix_spaces.py",
     "convert_links.py",
     "Untitled.canvas",
     "AGENTS.md",
@@ -219,7 +220,6 @@
     "docs/locations/regions/Elvenshade.md",
     "docs/maps/Merona.jpeg",
     "docs/religions",
-    "docs/locations/sites",
-    "docs/locations/regions"
+    "docs/locations/sites"
   ]
 }

@@ -41,7 +41,7 @@ Make sure you read the [Theme](docs/Theme.md) document before generating any tex
 - **Document Cross-References**: Link between related documents using `[Document Name](FILE_NOT_FOUND: Document Name)` format
 
 ### Examples
-- Correct: "The [Cerwin elves](docs/factions/Cerwin elves.md) trade with the [Hiren](docs/factions/Hiren.md) clans in the [Spine Peaks](docs/locations/regions/Spine Peaks.md))"
+- Correct: "The [Cerwin elves](docs/factions/Cerwin%20elves.md) trade with the [Hiren](docs/factions/Hiren.md) clans in the [Spine Peaks](docs/locations/regions/Spine%20Peaks.md))"
 - Incorrect: "The Cerwin elves trade with the Hiren clans in the Spine Peaks"
 - Correct: "Travelers pass through the [Whisperwood](docs/locations/regions/Whisperwood.md) forests near the shores of [Mosswater](docs/locations/regions/Mosswater.md)"
 - Incorrect: "Travelers pass through the Whisperwood forests near the shores of Mosswater"

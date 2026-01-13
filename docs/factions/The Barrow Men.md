@@ -1,7 +1,7 @@
 ## Motto
 "Before the elves came north."
 
-The first human settlers in the northern regions, driven northward by the expanding [Aryn Civilization](Aryn Civilization.md), leaving behind burial mounds and standing stones that mark their presence.
+The first human settlers in the northern regions, driven northward by the expanding [Aryn Civilization](Aryn%20Civilization.md), leaving behind burial mounds and standing stones that mark their presence.
 
 ## Artifacts
 - **Barrow Mounds**: Ancient burial chambers filled with grave goods and ceremonial objects

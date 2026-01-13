@@ -1,5 +1,5 @@
 ## Region
-[Aegon Wastes](../regions/Aegon Wastes.md)
+[Aegon Wastes](../regions/Aegon%20Wastes.md)
 ## Architecture
 Preserved ancient ships and stone structures, remarkably intact due to dry desert air. Features include beached vessels, storage buildings, and defensive fortifications.
 

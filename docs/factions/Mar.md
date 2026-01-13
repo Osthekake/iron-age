@@ -4,7 +4,7 @@
 Giants and Hobgoblins who invaded from the east, now living as pirates and bandits in old Aryn and Rhuul forts. They attack everyone opportunistically using an ancient messaging system for coordination, while avoiding Paer forests and constantly trying to crush Hiren fortresses.
 
 ## Primary regions
-[Windblown Wastes](../locations/regions/Windblown Wastes.md)
+[Windblown Wastes](../locations/regions/Windblown%20Wastes.md)
 
 ## Major cities
 Mar Strongholds, The Empty Crossroads, Hidden Valleys, Old Ruins

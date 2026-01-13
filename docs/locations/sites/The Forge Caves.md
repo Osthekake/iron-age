@@ -1,5 +1,5 @@
 ## Region
-[Spine Peaks](../regions/Spine Peaks.md)
+[Spine Peaks](../regions/Spine%20Peaks.md)
 
 ## Population
 - **[Hiren](../../factions/Hiren.md) Smiths**: 70% - Master craftsmen and steel makers
