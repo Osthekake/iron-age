@@ -1,0 +1,31 @@
+{
+  "enabledPlugins": [
+    "file-explorer",
+    "search",
+    "switcher",
+    "graph",
+    "backlink",
+    "page-preview",
+    "command-palette",
+    "markdown-importer",
+    "word-count",
+    "templates",
+    "daily-notes"
+  ],
+  "vimMode": false,
+  "livePreview": true,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - Inbox",
+  "attachmentFolderPath": "99 - Attachments",
+  "userIgnoreFilters": [
+    ".obsidian/"
+  ]
+}
