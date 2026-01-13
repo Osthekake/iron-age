@@ -1,4 +1,4 @@
-![Seringor.png](FILE_NOT_FOUND: Seringor.png)
+![Seringor.png](FILE_NOT_FOUND:%20Seringor.png)
 
 ## Practiced by
 [Cerwin elves](../factions/Cerwin%20elves.md), [Westmen](../factions/Westmen.md), some [Hiren](../factions/Hiren.md)

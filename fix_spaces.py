@@ -15,15 +15,29 @@ def fix_links_in_file(file_path):
         link_text = match.group(1)
         url = match.group(2)
         
-        # URL-encode spaces as %20 for .md files
-        if url.endswith('.md') and ' ' in url:
+        # URL-encode spaces as %20 for .md and image files
+        if (url.endswith('.md') or url.endswith(('.png', '.jpg', '.jpeg', '.gif', '.svg'))) and ' ' in url:
             fixed_url = url.replace(' ', '%20')
             return f"[{link_text}]({fixed_url})"
         
         return match.group(0)
     
-    # Apply the fix
-    content = re.sub(r'\[([^\]]+)\]\(([^)]+\.md)\)', fix_link, content)
+    # Fix regular markdown links
+    content = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', fix_link, content)
+    
+    # Fix image links ![](...)
+    def fix_image_link(match):
+        alt_text = match.group(1)
+        url = match.group(2)
+        
+        # URL-encode spaces as %20 for image files
+        if url.endswith(('.png', '.jpg', '.jpeg', '.gif', '.svg')) and ' ' in url:
+            fixed_url = url.replace(' ', '%20')
+            return f"![{alt_text}]({fixed_url})"
+        
+        return match.group(0)
+    
+    content = re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', fix_image_link, content)
     
     # Write back if changed
     if content != original_content:

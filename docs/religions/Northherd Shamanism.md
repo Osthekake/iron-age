@@ -1,4 +1,4 @@
-![northherd shamanism.png](FILE_NOT_FOUND: northherd shamanism.png)
+![northherd shamanism.png](FILE_NOT_FOUND:%20northherd%20shamanism.png)
 ## Practiced by
 [Northherders](../factions/Northherders.md)
 

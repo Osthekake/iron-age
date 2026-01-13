@@ -1,4 +1,4 @@
-![ironburner ancestor.png](FILE_NOT_FOUND: ironburner ancestor.png)
+![ironburner ancestor.png](FILE_NOT_FOUND:%20ironburner%20ancestor.png)
 ## Practiced by
 [Ironburners](../factions/Ironburners.md) (practiced in secret)
 
