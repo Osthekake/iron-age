@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "0f1bf96f501b37ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0dcbd1001f59fd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9ceca632b3ce31",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ead2c8167a2ea263",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed4773dd0c8ae86f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c3d10fc2eac5771",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b27f96e6fc4c0326",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f3812926509243ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "854827da9f727244",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d5f67453dda389c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fbf8a108e0e14a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "176b4bf1a975f79e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0daf8e258cf544c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2fe50276723508d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ce67d160b9ae0848",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2c3d10fc2eac5771",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "AGENTS.md",
+    "Cerwin.md",
+    "docs/factions/Westmen.md",
+    "docs/locations/sites/The Bone Coast.md",
+    "docs/factions/Rhuul.md",
+    "docs/locations/regions/Whisperwood.md",
+    "[[Aegon.md",
+    "docs/religions/Religions overview.md",
+    "docs/religions/Seringor - The Lord of Fire.md",
+    "docs/religions/Northherd Shamanism.md",
+    "docs/religions/Ironburner Ancestor Worship.md",
+    "docs/religions/ironburner ancestor.png",
+    "docs/locations/Merona.md",
+    "docs/religions/northherd shamanism.png",
+    "docs/religions/Seringor.png",
+    "docs/religions/summary.png",
+    "docs/Theme.md",
+    "docs/README.md",
+    "docs/factions/Northherders.md",
+    "setup-midjourney.md",
+    "package.json",
+    "docs/images/religions",
+    "docs/images/regions",
+    "docs/images/maps",
+    "docs/images/locations",
+    "docs/images/factions",
+    "docs/images",
+    "docs/locations/regions/Frostmere.md",
+    "docs/factions/Ironburners.md",
+    "docs/factions/The Barrow Men.md",
+    "docs/locations/regions/Windblown Wastes.md",
+    "docs/locations/regions/Spine Peaks.md",
+    "docs/locations/regions/Mosswater.md",
+    "docs/locations/regions/Ironfen.md",
+    "docs/locations/regions/Ironcrest Range.md",
+    "docs/locations/regions/Elvenshade.md",
+    "docs/maps/Merona.jpeg",
+    "docs/religions",
+    "docs/locations/sites",
+    "docs/locations/regions"
+  ]
+}
