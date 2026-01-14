@@ -11,12 +11,14 @@
             "id": "ca9ceca632b3ce31",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/religions/ironburner ancestor.png"
+                "file": "docs/locations/Merona.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ironburner ancestor"
+              "icon": "lucide-file",
+              "title": "Merona"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/religions/ironburner ancestor.png",
+                "file": "docs/locations/Merona.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ironburner ancestor"
+              "title": "Backlinks for Merona"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/religions/ironburner ancestor.png",
+                "file": "docs/locations/Merona.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ironburner ancestor"
+              "title": "Outgoing links from Merona"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/religions/ironburner ancestor.png",
+                "file": "docs/locations/Merona.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ironburner ancestor"
+              "title": "Outline of Merona"
             }
           }
         ]
@@ -183,13 +185,16 @@
   },
   "active": "ca9ceca632b3ce31",
   "lastOpenFiles": [
+    "docs/locations/regions/Frostmere.md",
+    "docs/locations/Merona.md",
+    "docs/maps/Merona.jpeg",
+    "docs/religions/ironburner ancestor.png",
     "docs/religions/Ironburner Ancestor Worship.md",
     "docs/religions/Seringor - The Lord of Fire.md",
     "docs/religions/Seringor.png",
     "docs/religions/northherd shamanism.png",
     "docs/religions/Religions overview.md",
     "docs/religions/Northherd Shamanism.md",
-    "docs/religions/ironburner ancestor.png",
     "Untitled.canvas",
     "fix_spaces.py",
     "convert_links.py",
@@ -200,7 +205,6 @@
     "docs/factions/Rhuul.md",
     "docs/locations/regions/Whisperwood.md",
     "[[Aegon.md",
-    "docs/locations/Merona.md",
     "docs/religions/summary.png",
     "docs/Theme.md",
     "docs/README.md",
@@ -213,7 +217,6 @@
     "docs/images/locations",
     "docs/images/factions",
     "docs/images",
-    "docs/locations/regions/Frostmere.md",
     "docs/factions/Ironburners.md",
     "docs/factions/The Barrow Men.md",
     "docs/locations/regions/Windblown Wastes.md",
@@ -222,7 +225,6 @@
     "docs/locations/regions/Ironfen.md",
     "docs/locations/regions/Ironcrest Range.md",
     "docs/locations/regions/Elvenshade.md",
-    "docs/maps/Merona.jpeg",
     "docs/religions"
   ]
 }
