@@ -1,4 +1,4 @@
-![Map of Merona](../../maps/Merona.jpeg)
+![Map of Merona](../maps/Merona.jpeg)
 
 The continent of the world of Hemos where the story takes place.
 
