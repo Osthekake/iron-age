@@ -11,10 +11,12 @@
             "id": "ca9ceca632b3ce31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "docs/religions/ironburner ancestor.png"
+              },
+              "icon": "lucide-image",
+              "title": "ironburner ancestor"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/religions/ironburner ancestor.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ironburner ancestor"
             }
           },
           {
@@ -108,11 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/religions/ironburner ancestor.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ironburner ancestor"
             }
           },
           {
@@ -150,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docs/religions/ironburner ancestor.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of ironburner ancestor"
             }
           }
         ]
@@ -177,11 +181,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "2c3d10fc2eac5771",
+  "active": "ca9ceca632b3ce31",
   "lastOpenFiles": [
+    "docs/religions/Ironburner Ancestor Worship.md",
+    "docs/religions/Seringor - The Lord of Fire.md",
+    "docs/religions/Seringor.png",
+    "docs/religions/northherd shamanism.png",
+    "docs/religions/Religions overview.md",
+    "docs/religions/Northherd Shamanism.md",
+    "docs/religions/ironburner ancestor.png",
+    "Untitled.canvas",
     "fix_spaces.py",
     "convert_links.py",
-    "Untitled.canvas",
     "AGENTS.md",
     "Cerwin.md",
     "docs/factions/Westmen.md",
@@ -189,14 +200,7 @@
     "docs/factions/Rhuul.md",
     "docs/locations/regions/Whisperwood.md",
     "[[Aegon.md",
-    "docs/religions/Religions overview.md",
-    "docs/religions/Seringor - The Lord of Fire.md",
-    "docs/religions/Northherd Shamanism.md",
-    "docs/religions/Ironburner Ancestor Worship.md",
-    "docs/religions/ironburner ancestor.png",
     "docs/locations/Merona.md",
-    "docs/religions/northherd shamanism.png",
-    "docs/religions/Seringor.png",
     "docs/religions/summary.png",
     "docs/Theme.md",
     "docs/README.md",
@@ -219,7 +223,6 @@
     "docs/locations/regions/Ironcrest Range.md",
     "docs/locations/regions/Elvenshade.md",
     "docs/maps/Merona.jpeg",
-    "docs/religions",
-    "docs/locations/sites"
+    "docs/religions"
   ]
 }
